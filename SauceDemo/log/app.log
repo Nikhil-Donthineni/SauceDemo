@@ -1,0 +1,2 @@
+2020-04-10 15:35:48.669 INFO [main] [com.stepdefinition.SauceLoginStep] [user_enters_email_as_and_password_as] [com.stepdefinition.SauceLoginStep.user_enters_email_as_and_password_as(SauceLoginStep.java:39)] - user name and password is entered
+2020-04-10 15:35:53.853 INFO [main] [com.stepdefinition.SauceLoginStep] [click_on_Login] [com.stepdefinition.SauceLoginStep.click_on_Login(SauceLoginStep.java:46)] - clicked on login button
